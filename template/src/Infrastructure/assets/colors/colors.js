@@ -72,7 +72,6 @@ export default {
   SandyBeach: "#FECFB3",
   Sapphire: "#020433",
   Salmon: "#FD747C",
-  PacificBlue: "#19A0DA",
   SlateGrey: "#6C7C91",
   Slate_Grey: "#687C93",
   SummerSky: "#349BEB",
